@@ -1,0 +1,167 @@
+
+body{
+   background-color:#F1F1F3 ;
+}
+
+
+.fira-sans-thin {
+   font-family: "Fira Sans", serif;
+   font-weight: 100;
+   font-style: normal;
+ }
+ 
+ /* nav style */
+ nav{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin:0 100px;
+ }
+ .nav-title{
+   font-weight:bold;
+   font-size: 20px;
+ }
+ nav ul{
+   display: flex;
+ }
+ nav ul li{
+   list-style:none ;
+   margin-right: ;
+ }
+ /* shared style */
+ .btn-primary{
+   background-color: #F1F1F3;
+   font-size: ;
+   padding: 10px 20px;
+   color: #006A50;
+   border-radius: 8px;
+   border-color: #006A50;
+ }
+ /* baneer style */
+ .baneer{
+   display: flex;
+   justify-content: space-between;
+   margin: 0 95px  75px ;
+   background-color:#C6E4D6;
+   border-radius: 24px;
+   padding: 20px 50px;
+
+ }
+ .baneer-content{
+   max-width:600px ;
+ }
+ .baneer-title{
+   font-size: 15px;
+   font-weight:400;
+ }
+ .baneer-description{
+   font-weight: bold;
+   font-size: 25px;
+ }
+ .btn-primary-1{
+   background-color: #006A50;
+   color: white;
+   padding: 12px 20px;
+   border-radius: 8px;
+   border: none;
+
+ }
+ .baneer-profilr-pic{
+   width: 475;
+   height: 400;
+ }
+ /* skills-container */
+ .skills-container{
+   display: flex;
+   gap:24px;
+   justify-content: space-between;
+   margin: 0px 75px;
+   padding:12px ;
+
+ }
+ .skill-description{
+  font-size: 15px;
+   font-weight: 300;
+ }
+ .skill{
+  margin-top:32px ;
+   padding:24px;
+   box-shadow:0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+   background-color: #FFFFFF;
+   border-radius: 16px;
+ }
+ .section-title{
+   margin: 0px 90px
+   
+ }
+ /* skills-1 */
+ .section-title-1{
+   margin: 0 85px;
+   margin-top:80px ;
+ }
+  .section-description-1{
+   margin: 0 85px;
+   font-size: 15px;
+   font-weight: 300;
+   margin-top:30px ;
+  
+ } 
+ /* funcation */
+  .funcation-container{
+   display: flex;
+   margin:0 75px ;
+   margin-top:32px ;
+   justify-content: space-between;
+   gap: 24px;
+ 
+
+  }
+  .funcation-description{
+   font-size: 15px;
+   font-weight: 300;
+
+   
+  }
+  .funcation-1{
+   background-color: #A3C9FF;
+   box-shadow:0px 4px 4px 0px#F1F1F3 ; 
+   padding: 32px;
+   border-radius: 16px;
+   border:none;
+   
+  }
+  .funcation-2{
+   background-color:#B9F4D8 ;
+   box-shadow:0px 4px 4px 0px #F1F1F3; 
+   padding: 32px;
+   border-radius: 16px;
+   border:none;
+  }
+   .funcation-3{
+    background-color: #FFF7DF;
+      box-shadow:0px 4px 4px 0px #F1F1F3; 
+      padding: 32px;
+      border-radius: 16px;
+      border:none;
+  }
+   .btn-primary-2{
+      background-color:#5490F5 ;
+      border-radius: 8px;
+      border: none;
+      padding: 10px 15px;
+      color: white;
+   }
+   .btn-primary-3{
+      background-color:#09A15C ;
+      padding:10px 15px ;
+      border-radius: 8px;
+      border: none;
+      color: white;
+   }
+   .btn-primary-4{
+      background-color:#FFC239 ;
+      padding:10px 15px ;
+      border-radius: 8px;
+      border: none;
+      color: white;
+   }
